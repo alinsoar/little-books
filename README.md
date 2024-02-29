@@ -12,10 +12,7 @@ The Little Prover
 The Little Monad
 ```
 
-Concepts of these books are taught by Daniel Friedman in his courses
-at Indiana.  Comparing with SICP, his books always finish with a
-metacircular implementation of the system, not with an implementation
-in assembler and hardware datapath and control, as SICP does.
-
-
+Many concepts from these books are taught by Daniel Friedman in his courses at Indiana.  His books always finish with a metacircular implementation of the system, in contrast with SICP, which comes to the hardware datapath, control, and assembly associated with the corresponding SECD machine.
+ 
+ 
 
